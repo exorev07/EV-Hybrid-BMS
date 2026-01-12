@@ -32,6 +32,7 @@ wheels/
 .env.local
 
 # Dataset files (if large)
+Dataset/
 *.csv
 *.h5
 *.hdf5
