@@ -67,3 +67,7 @@ models/
 
 # Logs
 *.log
+
+# Project documentation/papers
+01_papers/
+02_objectives/
